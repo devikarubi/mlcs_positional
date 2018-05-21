@@ -1,6 +1,6 @@
 Finding Longest Common Subsequence (LCS) involves comparison of two or more sequences and find the Longest Subsequence which is common to all sequences. This is a NP (Non Deterministic-Polynomial time) hard problem.
 
-Identifying MLCS in DNA sequences is helpful to generate Phylogenetic tree, Motif identification and DNA sequence alignment.  
+Identifying MLCS (Multiple Longest Common Subsequences) in (Biological) DNA sequences is helpful to generate Phylogenetic tree, Motif identification and DNA sequence alignment.  
 
 For over thirty years, lot of research is going on to find an optimized solution for the LCS problem. The most of the existing solutions are based on Dynamic Programming (DP) methodology. The DP method computes the score matrix for the sequences and obtain the LCS by scanning the entire score matrix. The score matrix contains both matched and unmatched positions of the sequences. LCS occurs only at the matched positions of the sequences. The scanning of unmatched positions of the score matrix is not needed for finding LCS. This  unwanted scanning increases the time complexity of the LCS algorithms. 
 
