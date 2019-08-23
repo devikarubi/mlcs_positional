@@ -25,3 +25,6 @@ Here are the researchers and publications have cited my research in their resear
 7.Zhongliang Deng, Enwen Hu*, Lu Yin, “A Novel Approach for RSS-based fingerprinting location system in GSM”, Beijing University of Posts and Telecommunications, TELKOMNIKA, Vol.15, No.2, June 2017, pp. 590~597.
 
 8.Hanok Palaskar, Prof. Tausif Diwan, “AN OPTIMIZED PARALLEL ALGORITHM FOR LONGEST COMMON SUBSEQUENCE USING OPENMP”, International Research Jounrla of Engineering and Technology (IRJET), Vol 03, Issue 06, June 2016
+
+9. Mapreduce pattern analysis implementation: 
+https://github.com/placidoneto/mapreduce-designpatterns-analysis/blob/master/paper/retrieved-works.bib
